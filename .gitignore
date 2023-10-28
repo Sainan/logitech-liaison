@@ -1,0 +1,5 @@
+int/
+*.exe
+
+installer/bin.cpp
+installer/bin.hpp
